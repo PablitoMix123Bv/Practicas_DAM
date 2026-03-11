@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     width: "66%",
     height: "50%",
     justifyContent: "space-evenly",
-    borderWidth: 1,
+    // borderWidth: 1,
     alignItems: "center",
     padding: 20,
     borderRadius: 10,
